@@ -1,0 +1,9 @@
+# #!/bin/bash
+# # Update Go
+
+# https://stackoverflow.com/questions/51933636/url-for-latest-stable-go-release
+
+curl -LO https://get.golang.org/$(uname)/go_installer
+chmod +x go_installer
+./go_installer
+rm go_installer

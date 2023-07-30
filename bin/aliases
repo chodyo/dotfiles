@@ -1,0 +1,3 @@
+#!/bin/bash
+
+alias gcnoop='git commit --allow-empty -m "noop"'

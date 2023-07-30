@@ -1,0 +1,4 @@
+#!/bin/bash
+# Print path entries on individual lines
+
+sed 's/:/\n/g' <<< "$PATH"

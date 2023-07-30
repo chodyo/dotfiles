@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # Add text to Windows clipboard from WSL
 
 cat $1 | clip.exe

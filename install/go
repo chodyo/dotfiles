@@ -1,4 +1,4 @@
-# #!/bin/bash
+# #!/bin/sh
 # # Update Go
 
 # https://stackoverflow.com/questions/51933636/url-for-latest-stable-go-release

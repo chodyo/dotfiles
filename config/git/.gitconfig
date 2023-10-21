@@ -1,0 +1,15 @@
+[user]
+        name = Cody Heffner
+        email = 4218016+chodyo@users.noreply.github.com
+        signingkey = TODO
+[core]
+        editor = code
+[init]
+        defaultBranch = main
+[url "git@github.com:"]
+        insteadOf = https://github.com/
+        insteadOf = http://github.com/
+        insteadOf = github.com/
+        insteadOf = gh:
+[commit]
+        gpgsign = true

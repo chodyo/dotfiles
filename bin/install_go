@@ -1,5 +1,5 @@
-# #!/bin/sh
-# # Update Go
+#!/bin/sh
+# Update or install Go
 
 # https://stackoverflow.com/questions/51933636/url-for-latest-stable-go-release
 
